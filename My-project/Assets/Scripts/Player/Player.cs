@@ -6,7 +6,6 @@ public class Player : MonoBehaviour
 {
     private PlayerMovement playerMovement;
     private Animator animator;
-
     void Start()
     {
         //mengambil informasi dari Script PlayerMovement
